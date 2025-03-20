@@ -73,4 +73,8 @@ Streamlit 🌐 (Web App Interface)
 ✅ Deploy the Streamlit app on Google Cloud / Heroku
 
 Asha Sandeep Kashyap
-Regards and Thanks to Shweta mam and Twinkle baid mam for supporting our all projects. 
+![app py code pic](https://github.com/user-attachments/assets/5ddc5f60-f024-45e7-b490-13eb79e16600)
+![app py code pic -1](https://github.com/user-attachments/assets/a8eaddb1-3c18-4198-9603-1436e47c678e)
+
+
+Thanks to Shweta mam and Twinkle baid mam for supporting our all projects. 
