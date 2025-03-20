@@ -49,6 +49,7 @@ PyTesseract: We are using Tesseract and Python, install PyTesseract using pip: p
 EasyOCR: We are using EasyOCR, install it with pip: pip install easyocr. 
 
 3️⃣ Run the Streamlit App:- streamlit run app.py 
+http://localhost:8501/
 
 🛠️ Technologies Used
 
