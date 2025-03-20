@@ -12,11 +12,11 @@ custom_ocr_pro-10![output new csv](https://github.com/user-attachments/assets/4a
 ![ocr logo image](https://github.com/user-attachments/assets/a131fd0a-2f1b-4196-b2bb-992e223e6bdc)
 
 
-📌 Project Overview
+Project Overview
 
 Custom OCR Pro-10 is a text extraction tool that combines Tesseract OCR for preprocessing and EasyOCR for real-time text recognition using a Streamlit app. The project aims to improve OCR accuracy with preprocessing techniques and provide an interactive user experience for text extraction.
-
-🚀 Features
+ 
+Features
 
 Preprocessing with Pytesseract & OpenCV for better OCR accuracy.
 
@@ -26,7 +26,7 @@ Supports multiple languages for text recognition.
 
 Image upload & real-time results for easy use.
 
-🖼️ Preprocessing with Pytesseract & OpenCV
+Preprocessing with Pytesseract & OpenCV
 
 Before applying OCR, preprocessing is performed to improve text recognition accuracy.
 
@@ -44,7 +44,7 @@ Edge Detection (Canny Algorithm)
 
 Dilation to Improve Text Regions
 
-🛠️ Installation & Setup
+Installation & Setup
 
 1️⃣ Install Dependencies:-Install PyTesseract (or EasyOCR):
 PyTesseract: We are using Tesseract and Python, install PyTesseract using pip: pip install pytesseract. 
@@ -53,9 +53,9 @@ EasyOCR: We are using EasyOCR, install it with pip: pip install easyocr.
 3️⃣ Run the Streamlit App:- streamlit run app.py 
 http://localhost:8501/
 
-🛠️ Technologies Used
+Technologies Used
 
-Python 🐍
+Python 
 
 OpenCV 📷 (Image Processing)
 
@@ -64,7 +64,9 @@ Pytesseract 📝 (OCR Preprocessing)
 EasyOCR 🔍 (Text Extraction)
 
 Streamlit 🌐 (Web App Interface)
-📢 Future Enhancements
+![image ocr](https://github.com/user-attachments/assets/8781d849-7042-414f-8192-2b47c7f6131d)
+
+Future Enhancements
 
 ✅ Support for more languages in OCR.
 
