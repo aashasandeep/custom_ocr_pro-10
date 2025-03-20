@@ -45,11 +45,10 @@ Dilation to Improve Text Regions
 🛠️ Installation & Setup
 
 1️⃣ Install Dependencies:-Install PyTesseract (or EasyOCR):
-PyTesseract: If you're using Tesseract and Python, install PyTesseract using pip: pip install pytesseract. 
-EasyOCR: If you're using EasyOCR, install it with pip: pip install easyocr. 
+PyTesseract: We are using Tesseract and Python, install PyTesseract using pip: pip install pytesseract. 
+EasyOCR: We are using EasyOCR, install it with pip: pip install easyocr. 
 
 3️⃣ Run the Streamlit App:- streamlit run app.py 
-http://localhost:8501/
 
 🛠️ Technologies Used
 
@@ -69,3 +68,6 @@ Streamlit 🌐 (Web App Interface)
 ✅ Integration with YOLOv3 for text detection before OCR.
 
 ✅ Deploy the Streamlit app on Google Cloud / Heroku
+
+Asha Sandeep Kashyap
+Regards and Thanks to Shweta mam and Twinkle baid mam for supporting our all projects. 
