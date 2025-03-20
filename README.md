@@ -30,6 +30,8 @@ Image upload & real-time results for easy use.
 
 Before applying OCR, preprocessing is performed to improve text recognition accuracy.
 
+images_path =C:\Users\ASHA SANDEEP\OneDrive\Desktop\pro-10ocr new\pics for data
+
 🔹 Preprocessing Steps:
 
 Convert Image to Grayscale
